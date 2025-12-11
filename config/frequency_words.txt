@@ -1,15 +1,19 @@
-iphone
+汽车
+
+宝马
+BMW
+
+云计算
+DevOps
+AWS
+
+消费电子
 mac
 ios
 
-ai
-!gai
-人工智能
+手机游戏
+手游
 
-自动驾驶
-汽车
-宝马
-BMW
 
 [GLOBAL_FILTER]
 小米
