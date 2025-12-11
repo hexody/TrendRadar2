@@ -4,8 +4,8 @@
 BMW
 
 云计算
+云原生
 DevOps
-AWS
 
 消费电子
 mac
@@ -13,8 +13,3 @@ ios
 
 手机游戏
 手游
-
-
-[GLOBAL_FILTER]
-小米
-华为
